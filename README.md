@@ -14,6 +14,12 @@
 - ⚡ Fun fact: I love ☕ + 🎧 + 💻
 
 ---
+## 📚 Currently Learning
+
+- 🌐 Next.js & Tailwind CSS
+- 📦 Zustand, Redux Toolkit
+- 🧪 Unit Testing with Vitest / React Testing Library
+---
 
 ## 🛠️ Tech Stack
 
@@ -23,6 +29,7 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
 
 ---
 
@@ -32,6 +39,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=trananhkiet0504&show_icons=true&theme=tokyonight" alt="stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=trananhkiet0504&theme=tokyonight" />
 </p>
+
+---
+## 🧰 My Favorite Tools
+
+📝 VS Code • 🌐 Chrome DevTools • 🎨 Figma • 🔁 Git • 🔍 Postman • ⚡ Vercel
 
 ---
 
